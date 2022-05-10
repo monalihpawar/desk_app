@@ -39,7 +39,7 @@
    },
    {
     "action": "frappe.ui.toolbar.show_about()",
-    "hidden": 1,
+    "hidden": 0,
     "is_standard": 1,
     "item_label": "About",
     "item_type": "Action",
