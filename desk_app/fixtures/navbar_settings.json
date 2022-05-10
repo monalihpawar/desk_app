@@ -73,6 +73,17 @@
    {
     "action": null,
     "hidden": 0,
+    "is_standard": 1,
+    "item_label": "Frappe Support",
+    "item_type": "Route",
+    "parent": "Navbar Settings",
+    "parentfield": "help_dropdown",
+    "parenttype": "Navbar Settings",
+    "route": "https://frappe.io/support"
+   },
+   {
+    "action": null,
+    "hidden": 0,
     "is_standard": 0,
     "item_label": "Forums",
     "item_type": "Route",
