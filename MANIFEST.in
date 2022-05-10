@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include desk_app *.css
+recursive-include desk_app *.csv
+recursive-include desk_app *.html
+recursive-include desk_app *.ico
+recursive-include desk_app *.js
+recursive-include desk_app *.json
+recursive-include desk_app *.md
+recursive-include desk_app *.png
+recursive-include desk_app *.py
+recursive-include desk_app *.svg
+recursive-include desk_app *.txt
+recursive-exclude desk_app *.pyc
